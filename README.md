@@ -12,7 +12,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Overview
 
-**Challenge is to build out this QR-Card component and get it looking as close to the design as possible.**
+**Challenge is to build out this QR-Code component and get it looking as close to the design as possible.**
 
 ### Screenshot
 
@@ -20,7 +20,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Frontend Mentor Submission](https://your-solution-url.com)
+- Solution URL: [Frontend Mentor Submission](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H/hub/qrcode-component-using-html-and-css-r1u_kmpB5)
 - Live Site URL: [Active GitHub Page](https://sikta2002.github.io/QR-Code-Component/)
 
 ### Built with
